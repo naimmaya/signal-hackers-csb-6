@@ -1,0 +1,6 @@
+{
+  "name": "Signal Hackers CSB - Facebook Report Routes & Additional Info",
+  "description": "ফেসবুক অফিসিয়াল রিপোর্ট লিংক এবং পলিসি মানসম্পন্ন নিখুঁত ইংরেজি Additional Info স্ক্রিপ্ট এক ক্লিকে কপি করার টুল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
